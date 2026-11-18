@@ -1,0 +1,287 @@
+{
+  "hamburguesas": [
+    {
+      "nombre": "Hamburguesa Clásica",
+      "descripcion": "Carne 100% de res, queso cheddar, lechuga, tomate y salsa especial.",
+      "ingredientes": [
+        "carne de res",
+        "queso cheddar",
+        "lechuga",
+        "tomate",
+        "salsa de la casa"
+      ],
+      "precio": 18000,
+      "categoria": "hamburguesas",
+      "disponible": true
+    },
+    {
+      "nombre": "Hamburguesa Doble Tocino",
+      "descripcion": "Doble carne, doble tocino crujiente, queso suizo y cebolla caramelizada.",
+      "ingredientes": [
+        "doble carne",
+        "tocino",
+        "queso suizo",
+        "cebolla caramelizada"
+      ],
+      "precio": 24000,
+      "categoria": "hamburguesas",
+      "disponible": true
+    },
+    {
+      "nombre": "Hamburguesa Pollo Crispy",
+      "descripcion": "Pechuga de pollo apanada crujiente, ensalada coleslaw y mayonesa de ajo.",
+      "ingredientes": [
+        "pollo apanado",
+        "coleslaw",
+        "mayonesa de ajo"
+      ],
+      "precio": 19000,
+      "categoria": "hamburguesas",
+      "disponible": true
+    },
+    {
+      "nombre": "Hamburguesa Veggie",
+      "descripcion": "Medallón de lentejas y quinoa, queso mozzarella, rúcula y tomate.",
+      "ingredientes": [
+        "lentejas",
+        "quinoa",
+        "queso mozzarella",
+        "rúcula",
+        "tomate"
+      ],
+      "precio": 20000,
+      "categoria": "hamburguesas",
+      "disponible": true
+    }
+  ],
+  "pizzas": [
+    {
+      "nombre": "Pizza Napolitana",
+      "descripcion": "Base de tomate natural, mozzarella fresca, albahaca y aceite de oliva.",
+      "ingredientes": [
+        "tomate",
+        "mozzarella",
+        "albahaca",
+        "aceite de oliva"
+      ],
+      "precio": 28000,
+      "categoria": "pizzas",
+      "disponible": true
+    },
+    {
+      "nombre": "Pizza Hawaiana",
+      "descripcion": "Salsa de tomate, queso mozzarella, jamón ahumado y piña en almíbar.",
+      "ingredientes": [
+        "mozzarella",
+        "jamón",
+        "piña"
+      ],
+      "precio": 30000,
+      "categoria": "pizzas",
+      "disponible": true
+    },
+    {
+      "nombre": "Pizza Pepperoni Suprema",
+      "descripcion": "Doble porción de pepperoni artesanal y queso mozzarella fundido.",
+      "ingredientes": [
+        "pepperoni",
+        "mozzarella",
+        "salsa de tomate"
+      ],
+      "precio": 32000,
+      "categoria": "pizzas",
+      "disponible": true
+    }
+  ],
+  "comidas_rapidas": [
+    {
+      "nombre": "Perro Caliente Especial",
+      "descripcion": "Salchicha americana, queso fundido, papas ripio y chuleta de tocino.",
+      "ingredientes": [
+        "salchicha",
+        "queso",
+        "papas ripio",
+        "tocino"
+      ],
+      "precio": 14000,
+      "categoria": "comidas_rapidas",
+      "disponible": true
+    },
+    {
+      "nombre": "Salchipapas de la Casa",
+      "descripcion": "Papas a la francesa doradas, salchicha premium, queso costeño rallado y salsas.",
+      "ingredientes": [
+        "papas fritas",
+        "salchicha",
+        "queso rallado",
+        "salsa rosada, de ajo y de piña"
+      ],
+      "precio": 16000,
+      "categoria": "comidas_rapidas",
+      "disponible": true
+    },
+    {
+      "nombre": "Papas Fritas Grandes",
+      "descripcion": "Porción grande de papas a la francesa con sal marina.",
+      "ingredientes": [
+        "papa",
+        "sal marina"
+      ],
+      "precio": 8000,
+      "categoria": "comidas_rapidas",
+      "disponible": true
+    },
+    {
+      "nombre": "Sándwich de Pollo",
+      "descripcion": "Pollo desmechado, queso, lechuga y tomate en pan artesanal. Incluye papas.",
+      "ingredientes": [
+        "pollo desmechado",
+        "queso",
+        "lechuga",
+        "tomate",
+        "pan artesanal"
+      ],
+      "precio": 17000,
+      "categoria": "comidas_rapidas",
+      "disponible": true
+    },
+    {
+      "nombre": "Menú Infantil",
+      "descripcion": "Mini hamburguesa, papas fritas y jugo de fruta.",
+      "ingredientes": [
+        "mini hamburguesa",
+        "papas fritas",
+        "jugo de fruta"
+      ],
+      "precio": 15000,
+      "categoria": "comidas_rapidas",
+      "disponible": true
+    },
+    {
+      "nombre": "Ensalada Fresca",
+      "descripcion": "Lechugas mixtas, tomate cherry, pepino, zanahoria y aderezo de limón.",
+      "ingredientes": [
+        "lechugas",
+        "tomate cherry",
+        "pepino",
+        "zanahoria",
+        "limón"
+      ],
+      "precio": 15000,
+      "categoria": "comidas_rapidas",
+      "disponible": true
+    }
+  ],
+  "bebidas": [
+    {
+      "nombre": "Gaseosa Coca-Cola 400ml",
+      "descripcion": "Bebida gaseosa refrescante.",
+      "ingredientes": [
+        "agua carbonatada",
+        "azúcar",
+        "sabor cola"
+      ],
+      "precio": 5000,
+      "categoria": "bebidas",
+      "disponible": true
+    },
+    {
+      "nombre": "Gaseosa Coca-Cola Zero 400ml",
+      "descripcion": "Sabor cola sin azúcar.",
+      "ingredientes": [
+        "agua carbonatada",
+        "edulcorantes",
+        "sabor cola"
+      ],
+      "precio": 5000,
+      "categoria": "bebidas",
+      "disponible": true
+    },
+    {
+      "nombre": "Malteada de Chocolate",
+      "descripcion": "Helado artesanal de chocolate batido con leche fría y crema chantilly.",
+      "ingredientes": [
+        "helado de chocolate",
+        "leche",
+        "crema chantilly"
+      ],
+      "precio": 9000,
+      "categoria": "bebidas",
+      "disponible": true
+    },
+    {
+      "nombre": "Malteada de Vainilla",
+      "descripcion": "Helado artesanal de vainilla batido con leche fría y crema chantilly.",
+      "ingredientes": [
+        "helado de vainilla",
+        "leche",
+        "crema chantilly"
+      ],
+      "precio": 9000,
+      "categoria": "bebidas",
+      "disponible": true
+    },
+    {
+      "nombre": "Limonada de Hierbabuena",
+      "descripcion": "Limonada natural frappé con hojas frescas de hierbabuena.",
+      "ingredientes": [
+        "limón",
+        "hierbabuena",
+        "azúcar",
+        "hielo"
+      ],
+      "precio": 7000,
+      "categoria": "bebidas",
+      "disponible": true
+    }
+  ],
+  "postres": [
+    {
+      "nombre": "Postre Tres Leches",
+      "descripcion": "Bizcocho esponjoso bañado en tres tipos de leche con toque de canela.",
+      "ingredientes": [
+        "leche condensada",
+        "crema de leche",
+        "leche entera",
+        "bizcocho"
+      ],
+      "precio": 8500,
+      "categoria": "postres",
+      "disponible": true
+    },
+    {
+      "nombre": "Brownie con Helado",
+      "descripcion": "Brownie de chocolate tibio acompañado de una bola de helado de vainilla.",
+      "ingredientes": [
+        "chocolate",
+        "nueces",
+        "helado de vainilla"
+      ],
+      "precio": 9500,
+      "categoria": "postres",
+      "disponible": true
+    }
+  ],
+  "adicionales": [
+    {
+      "nombre": "Tocino Extra",
+      "descripcion": "Porción adicional de tocino crujiente.",
+      "ingredientes": [
+        "tocino"
+      ],
+      "precio": 3000,
+      "categoria": "adicionales",
+      "disponible": true
+    },
+    {
+      "nombre": "Queso Extra",
+      "descripcion": "Porción adicional de queso.",
+      "ingredientes": [
+        "queso"
+      ],
+      "precio": 2500,
+      "categoria": "adicionales",
+      "disponible": true
+    }
+  ]
+}

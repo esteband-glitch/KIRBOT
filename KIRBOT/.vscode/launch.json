@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    { "name": "KIRBOT · Interfaz web", "type": "debugpy", "request": "launch", "program": "${workspaceFolder}/app.py",
+      "console": "integratedTerminal", "cwd": "${workspaceFolder}", "justMyCode": true },
+    { "name": "KIRBOT · Interfaz web (solo TF-IDF, rápido)", "type": "debugpy", "request": "launch",
+      "program": "${workspaceFolder}/app.py", "args": ["--modelo", "tfidf"], "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}" },
+    { "name": "KIRBOT · Chat en consola (debug)", "type": "debugpy", "request": "launch",
+      "program": "${workspaceFolder}/chat_consola.py", "args": ["--debug"], "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}" },
+    { "name": "KIRBOT · Entrenar TF-IDF", "type": "debugpy", "request": "launch",
+      "program": "${workspaceFolder}/entrenar.py", "args": ["--modelo", "tfidf"], "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}" },
+    { "name": "KIRBOT · Entrenar Transformer (10 épocas)", "type": "debugpy", "request": "launch",
+      "program": "${workspaceFolder}/entrenar.py", "args": ["--modelo", "transformer", "--epocas", "10"],
+      "console": "integratedTerminal", "cwd": "${workspaceFolder}" }
+  ]
+}

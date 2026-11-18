@@ -1,0 +1,211 @@
+texto,categoria
+"Hola, no sé qué pedir. ¿Qué me recomiendas?",recomendacion_comidas
+Quiero algo que tenga pollo y que sea rico,recomendacion_comidas
+Qué me sugieres si tengo mucha hambre,recomendacion_comidas
+Busco una hamburguesa jugosa sin cebolla,recomendacion_comidas
+Recomiéndame una pizza que le guste a los niños,recomendacion_comidas
+Quiero un plato ligero pero con muy buen sabor,recomendacion_comidas
+Tienes alguna recomendación vegetariana,recomendacion_comidas
+Qué plato fuerte me aconsejas pedir hoy,recomendacion_comidas
+Quiero comer algo rápido pero delicioso,recomendacion_comidas
+Me ayudas a escoger entre una hamburguesa y una pizza,recomendacion_comidas
+Qué postre me recomiendas para terminar la cena,recomendacion_comidas
+Alguna sugerencia de comida rápida artesanal,recomendacion_comidas
+Quiero probar algo nuevo de la casa,recomendacion_comidas
+Qué bebida combina bien con una hamburguesa doble,recomendacion_comidas
+Busco un plato especial para compartir en pareja,recomendacion_comidas
+Qué me ofreces si me gustan los sabores picantes,recomendacion_comidas
+Recomiéndame un plato que no sea muy grasoso,recomendacion_comidas
+Tienes opciones sin gluten o saludables,recomendacion_comidas
+Cuál es la especialidad más vendida del restaurante,recomendacion_comidas
+Ayúdame a armar una combinación perfecta de almuerzo,recomendacion_comidas
+Quiero consultar el menú completo,consulta_menu
+Qué ingredientes tiene la hamburguesa clásica,consulta_menu
+Cuánto cuesta la pizza napolitana,consulta_menu
+Cuáles son los sabores de gaseosa disponibles,consulta_menu
+Tienen papas fritas grandes en el menú,consulta_menu
+Muéstrame los precios de los postres,consulta_menu
+Qué lleva el perro caliente especial,consulta_menu
+El sándwich de pollo incluye papas,consulta_menu
+Cuáles son las bebidas sin alcohol que ofrecen,consulta_menu
+Cuánto vale la porción de malteada,consulta_menu
+Qué tipo de queso usan en las pizzas,consulta_menu
+Hay disponibilidad de malteada de chocolate hoy,consulta_menu
+En qué tamaños viene la pizza familiar,consulta_menu
+Muéstrame la lista de precios de las malteadas,consulta_menu
+Cuáles son los ingredientes del postre tres leches,consulta_menu
+Tienen menú infantil y qué incluye,consulta_menu
+Cuánto cuesta agregar tocino extra a la hamburguesa,consulta_menu
+Qué salsas vienen con las salchipapas,consulta_menu
+Dime el valor exacto de la pizza hawaiana,consulta_menu
+Quiero ver la descripción detallada de las bebidas,consulta_menu
+Quiero hacer un pedido,gestion_pedidos
+Quisiera ordenar una hamburguesa clásica y dos gaseosas,gestion_pedidos
+Agrega una pizza mediana a mi orden por favor,gestion_pedidos
+Quiero pedir un perro caliente y una malteada,gestion_pedidos
+Deseo confirmar mi pedido actual,gestion_pedidos
+Quiero cambiar la cantidad de mi orden a dos hamburguesas,gestion_pedidos
+Añade unas papas fritas y un postre de chocolate,gestion_pedidos
+Quiero finalizar y enviar mi pedido de comida,gestion_pedidos
+Por favor quiero ordenar para llevar,gestion_pedidos
+Necesito agregar una ensalada al carrito,gestion_pedidos
+Quiero cancelar el último producto que agregué,gestion_pedidos
+Dime el total de lo que llevo pedido,gestion_pedidos
+Confirmo mi pedido con pago en efectivo,gestion_pedidos
+Quiero hacer un pedido a domicilio por favor,gestion_pedidos
+Añade otra gaseosa zero al pedido,gestion_pedidos
+Quiero revisar mi orden antes de pagar,gestion_pedidos
+Proceder al pago de mi pedido por favor,gestion_pedidos
+Quiero pedir dos malteadas de vainilla,gestion_pedidos
+Modificar mi pedido para quitar la cebolla,gestion_pedidos
+"Listo, eso sería todo mi pedido de hoy",gestion_pedidos
+Quiero saber el estado de mi pedido,consulta_pedidos
+Cuánto falta para que llegue mi comida,consulta_pedidos
+Mi pedido se está demorando mucho,consulta_pedidos
+Cómo puedo consultar mi número de orden,consulta_pedidos
+Ya salió el domiciliario con mi pedido,consulta_pedidos
+Quiero rastrear mi entrega actual,consulta_pedidos
+Cuánto tiempo estimado tarda la preparación,consulta_pedidos
+Preguntar por el pedido que hice hace media hora,consulta_pedidos
+Dime si mi orden ya fue registrada en el sistema,consulta_pedidos
+Por qué no ha llegado mi comida todavía,consulta_pedidos
+Quiero verificar si mi pedido se confirmó bien,consulta_pedidos
+Cuál es el tiempo de espera para mi domicilio,consulta_pedidos
+Necesito hablar sobre un retraso en mi pedido,consulta_pedidos
+Cómo confirman que el pedido está en camino,consulta_pedidos
+Estado de mi orden número 104,consulta_pedidos
+Saber si el restaurante ya aceptó mi orden,consulta_pedidos
+Cuánto tarda el servicio en local,consulta_pedidos
+Consultar si mi pedido incluye todo lo que pedí,consulta_pedidos
+Hay algún inconveniente con mi despacho,consulta_pedidos
+Verificar si mi pedido sigue en cocina,consulta_pedidos
+Cuáles son los horarios de atención,atencion_cliente
+En dónde están ubicados exactamente,atencion_cliente
+Qué métodos de pago aceptan en el restaurante,atencion_cliente
+Tienen servicio a domicilio disponible,atencion_cliente
+Quiero poner una queja sobre mi servicio,atencion_cliente
+Tengo una sugerencia para mejorar el local,atencion_cliente
+Aceptan pagos con tarjeta de crédito y transferencia,atencion_cliente
+Cuál es el número de teléfono de contacto,atencion_cliente
+Tienen parqueadero disponible para clientes,atencion_cliente
+Quiero hablar con un asesor humano por favor,atencion_cliente
+Abren los días domingo y festivos,atencion_cliente
+Tienen política de reembolso o garantía,atencion_cliente
+Ofrecen descuentos o promociones hoy,atencion_cliente
+Cómo puedo hacer una reserva para un cumpleaños,atencion_cliente
+Me equivoqué en un dato y necesito ayuda urgente,atencion_cliente
+Tienen zona pet friendly en el restaurante,atencion_cliente
+Cuáles son las formas de contacto oficial,atencion_cliente
+Quiero dejar un comentario positivo sobre la atención,atencion_cliente
+Tienen factura electrónica disponible,atencion_cliente
+Ayuda con una duda general sobre el servicio,atencion_cliente
+Cómo preparar una torta de chocolate en casa,fuera_de_tema
+Quién ganó el último partido de fútbol profesional,fuera_de_tema
+Qué temperatura hará mañana en la ciudad,fuera_de_tema
+Cuánto es siete por ocho en matemáticas,fuera_de_tema
+Recomiéndame una película de ciencia ficción,fuera_de_tema
+Cómo cocinar arroz blanco perfecto,fuera_de_tema
+Cuál es la capital de Japón,fuera_de_tema
+Cuántos planetas tiene nuestro sistema solar,fuera_de_tema
+Qué canción está sonando en la radio,fuera_de_tema
+Cuéntame un chiste gracioso de animales,fuera_de_tema
+Cuál es la receta secreta de la paella,fuera_de_tema
+Qué equipo ganó la copa mundial de fútbol,fuera_de_tema
+En qué año llegó el hombre a la luna,fuera_de_tema
+Quién escribió la novela de Cien Años de Soledad,fuera_de_tema
+Cómo se programa una aplicación en Python,fuera_de_tema
+Cuál es la distancia entre la tierra y el sol,fuera_de_tema
+Recomiéndame un libro de misterio,fuera_de_tema
+Qué hora es en Tokio en este momento,fuera_de_tema
+Cómo funciona la gravedad cuántica,fuera_de_tema
+Dime un dato curioso sobre los dinosaurios,fuera_de_tema
+qué está rico hoy aquí,recomendacion_comidas
+dame una sugerencia para el almuerzo,recomendacion_comidas
+qué me aconsejas para una comida con amigos,recomendacion_comidas
+recomiéndame algo con queso,recomendacion_comidas
+"no sé qué antojo tengo, ayúdame a decidir",recomendacion_comidas
+qué es lo más rico que tienen,recomendacion_comidas
+"quiero algo dulce, qué me recomiendas",recomendacion_comidas
+qué opciones hay para alguien que no come carne,recomendacion_comidas
+sugiéreme algo económico pero que llene,recomendacion_comidas
+cuál es el plato estrella de la casa,recomendacion_comidas
+qué le pido a mi hijo de 6 años,recomendacion_comidas
+recomienda una bebida refrescante,recomendacion_comidas
+qué me recomiendas para cenar,recomendacion_comidas
+"tengo antojo de algo con tocino, qué hay",recomendacion_comidas
+ayúdame a elegir algo bueno para dos personas,recomendacion_comidas
+qué platos tienen disponibles,consulta_menu
+muéstrame la carta,consulta_menu
+cuánto cuesta la hamburguesa doble tocino,consulta_menu
+qué trae la salchipapa de la casa,consulta_menu
+tienen sándwich de pollo y cuánto vale,consulta_menu
+qué ingredientes lleva la pizza pepperoni,consulta_menu
+cuánto cuestan las bebidas,consulta_menu
+qué postres tienen y a qué precio,consulta_menu
+la hamburguesa de pollo viene con papas,consulta_menu
+cuánto vale la ensalada,consulta_menu
+precio de la limonada de hierbabuena,consulta_menu
+tienen gaseosa zero en el menú,consulta_menu
+qué lleva el brownie,consulta_menu
+cuál es el precio de la pizza familiar,consulta_menu
+me pasas la carta con los precios,consulta_menu
+quiero pedir una pizza hawaiana,gestion_pedidos
+ponme dos hamburguesas clásicas,gestion_pedidos
+agrégame una limonada a la orden,gestion_pedidos
+quiero una salchipapa y una gaseosa,gestion_pedidos
+sácame el brownie del pedido,gestion_pedidos
+quita las papas de mi orden,gestion_pedidos
+confirma mi pedido por favor,gestion_pedidos
+pago con tarjeta,gestion_pedidos
+es para domicilio,gestion_pedidos
+mándamelo a domicilio a la calle 45 #20-30,gestion_pedidos
+"sí, confirmo el pedido",gestion_pedidos
+cuánto llevo en el carrito,gestion_pedidos
+cambia la gaseosa por una limonada,gestion_pedidos
+añade tocino extra a mi hamburguesa,gestion_pedidos
+quiero ordenar un menú infantil,gestion_pedidos
+dónde está mi pedido,consulta_pedidos
+mi comida no ha llegado,consulta_pedidos
+cuánto falta para mi orden,consulta_pedidos
+ya está listo mi pedido,consulta_pedidos
+llevo una hora esperando mi domicilio,consulta_pedidos
+en qué va mi orden,consulta_pedidos
+quiero saber por dónde va el domiciliario,consulta_pedidos
+me pueden decir el estado del pedido número 105,consulta_pedidos
+falta un producto en mi pedido,consulta_pedidos
+cuánto se demora en llegar,consulta_pedidos
+ya empezaron a preparar mi orden,consulta_pedidos
+mi domicilio va tarde,consulta_pedidos
+confirmen si mi pedido va en camino,consulta_pedidos
+en cuánto tiempo estará mi pedido,consulta_pedidos
+por qué tarda tanto mi orden,consulta_pedidos
+a qué hora cierran,atencion_cliente
+dónde queda el restaurante,atencion_cliente
+reciben nequi,atencion_cliente
+cuál es su whatsapp,atencion_cliente
+quiero reclamar por un mal servicio,atencion_cliente
+hacen domicilios a mi barrio,atencion_cliente
+cuánto cuesta el domicilio,atencion_cliente
+tienen servicio para eventos y cumpleaños,atencion_cliente
+puedo reservar una mesa para seis personas,atencion_cliente
+quiero hablar con una persona real,atencion_cliente
+abren los lunes,atencion_cliente
+cuándo hay promociones,atencion_cliente
+me pueden enviar la factura a mi correo,atencion_cliente
+"el servicio fue excelente, felicitaciones",atencion_cliente
+puedo pagar con daviplata,atencion_cliente
+cuánto cuesta un iphone,fuera_de_tema
+ayúdame con mi tarea de historia,fuera_de_tema
+quién es el presidente de Francia,fuera_de_tema
+cómo está el dólar hoy,fuera_de_tema
+traduce esta frase al inglés,fuera_de_tema
+qué serie me recomiendas ver,fuera_de_tema
+cómo bajo de peso rápido,fuera_de_tema
+explícame qué es la inteligencia artificial,fuera_de_tema
+cuál es el mejor celular del mercado,fuera_de_tema
+dame consejos para una entrevista de trabajo,fuera_de_tema
+cómo se hace una página web,fuera_de_tema
+quién ganó el mundial de 2014,fuera_de_tema
+resuélveme esta ecuación,fuera_de_tema
+dime cómo llegar al aeropuerto,fuera_de_tema
+cuéntame algo de la historia de Roma,fuera_de_tema

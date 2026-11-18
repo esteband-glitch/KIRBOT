@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+modelos/_checkpoints/
+modelos/kirbot_transformer/
+modelos/*.joblib
+reportes/*.png

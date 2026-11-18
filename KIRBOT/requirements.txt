@@ -1,0 +1,13 @@
+# Núcleo (suficiente para el modo TF-IDF y la interfaz)
+gradio>=5.20,<6
+scikit-learn>=1.4
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+joblib>=1.3
+pytest>=8
+
+# Solo para el clasificador Transformer (DistilBERT)
+torch>=2.2
+transformers>=4.46,<5
+accelerate>=1,<2
